@@ -24,7 +24,7 @@ Some of the included locations:
 ## 🛠️ Tech Stack
 
 - **Frontend:** Vite + JavaScript
-- **Backend:** Node.js or Python (depending on your implementation)
+- **Backend:** Flask Python 
 - **Algorithm:** Dijkstra’s Algorithm
 
 ## 🚀 Getting Started
@@ -71,6 +71,4 @@ npm run dev
 - The app displays the shortest route with total distance.
 - Great for route optimization and learning pathfinding algorithms.
 
-## 📚 License
 
-This project is open-source and available under the [MIT License](LICENSE).
