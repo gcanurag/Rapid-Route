@@ -33,6 +33,7 @@ Some of the included locations:
 
 - Node.js (v16 or later)
 - npm or yarn
+- Python
 
 ### Clone the Repository
 
